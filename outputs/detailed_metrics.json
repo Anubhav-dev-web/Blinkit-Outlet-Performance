@@ -1,0 +1,229 @@
+{
+  "kpi": {
+    "total_sales": "$1.20M",
+    "total_sales_raw": 1201681.4928,
+    "average_sales": "$140.99",
+    "no_of_items": 8523,
+    "avg_rating": 3.965857092573038
+  },
+  "sales_by_year": {
+    "2011": "$78.13K",
+    "2012": "$130.48K",
+    "2014": "$131.81K",
+    "2015": "$130.94K",
+    "2016": "$132.11K",
+    "2017": "$133.10K",
+    "2018": "$204.52K",
+    "2020": "$129.10K",
+    "2022": "$131.48K"
+  },
+  "peak_sales_year": {
+    "year": 2018,
+    "sales": "$204.52K"
+  },
+  "fat_content": {
+    "Low Fat": "$717.39K",
+    "Regular": "$409.41K",
+    "LF": "$43.86K",
+    "reg": "$15.95K",
+    "low fat": "$15.07K"
+  },
+  "fat_content_raw": {
+    "Low Fat": 717390.8474,
+    "Regular": 409413.1234,
+    "LF": 43857.1082,
+    "reg": 15948.681,
+    "low fat": 15071.7328
+  },
+  "sales_by_item_type": {
+    "Fruits and Vegetables": "$178.12K",
+    "Snack Foods": "$175.43K",
+    "Household": "$135.98K",
+    "Frozen Foods": "$118.56K",
+    "Dairy": "$101.28K",
+    "Canned": "$90.71K",
+    "Baking Goods": "$81.89K",
+    "Health and Hygiene": "$68.03K",
+    "Meat": "$59.45K",
+    "Soft Drinks": "$58.51K",
+    "Breads": "$35.38K",
+    "Hard Drinks": "$29.33K",
+    "Others": "$22.45K",
+    "Starchy Foods": "$21.88K",
+    "Breakfast": "$15.60K",
+    "Seafood": "$9.08K"
+  },
+  "sales_by_item_type_raw": {
+    "Fruits and Vegetables": 178124.081,
+    "Snack Foods": 175433.9224,
+    "Household": 135976.5254,
+    "Frozen Foods": 118558.8814,
+    "Dairy": 101276.4616,
+    "Canned": 90706.729,
+    "Baking Goods": 81894.7364,
+    "Health and Hygiene": 68025.8388,
+    "Meat": 59449.8638,
+    "Soft Drinks": 58514.167,
+    "Breads": 35379.1198,
+    "Hard Drinks": 29334.6806,
+    "Others": 22451.8916,
+    "Starchy Foods": 21880.0274,
+    "Breakfast": 15596.6966,
+    "Seafood": 9077.87
+  },
+  "top_categories": [
+    {
+      "name": "Fruits and Vegetables",
+      "sales": "$178.12K"
+    },
+    {
+      "name": "Snack Foods",
+      "sales": "$175.43K"
+    }
+  ],
+  "fat_by_tier": {
+    "Tier 1": {
+      "LF": "$12.91K",
+      "Low Fat": "$198.52K",
+      "Regular": "$116.28K",
+      "low fat": "$3.61K",
+      "reg": "$5.07K"
+    },
+    "Tier 2": {
+      "LF": "$12.25K",
+      "Low Fat": "$237.22K",
+      "Regular": "$133.91K",
+      "low fat": "$5.00K",
+      "reg": "$4.78K"
+    },
+    "Tier 3": {
+      "LF": "$18.70K",
+      "Low Fat": "$281.65K",
+      "Regular": "$159.22K",
+      "low fat": "$6.46K",
+      "reg": "$6.10K"
+    }
+  },
+  "fat_by_tier_raw": {
+    "LF": {
+      "Tier 1": 12912.083200000001,
+      "Tier 2": 12245.6822,
+      "Tier 3": 18699.3428
+    },
+    "Low Fat": {
+      "Tier 1": 198522.1012,
+      "Tier 2": 237216.8288,
+      "Tier 3": 281651.9174
+    },
+    "Regular": {
+      "Tier 1": 116280.364,
+      "Tier 2": 133908.3242,
+      "Tier 3": 159224.4352
+    },
+    "low fat": {
+      "Tier 1": 3613.7282,
+      "Tier 2": 5002.2684,
+      "Tier 3": 6455.7362
+    },
+    "reg": {
+      "Tier 1": 5069.5354,
+      "Tier 2": 4777.544,
+      "Tier 3": 6101.6016
+    }
+  },
+  "sales_by_outlet_size": {
+    "High": "$248.99K",
+    "Medium": "$507.90K",
+    "Small": "$444.79K"
+  },
+  "sales_by_outlet_size_raw": {
+    "High": 248991.586,
+    "Medium": 507895.7364,
+    "Small": 444794.1704
+  },
+  "sales_by_location": {
+    "Tier 3": {
+      "sales": "$472.13K",
+      "pct": "100.0%"
+    },
+    "Tier 2": {
+      "sales": "$393.15K",
+      "pct": "83.3%"
+    },
+    "Tier 1": {
+      "sales": "$336.40K",
+      "pct": "71.3%"
+    }
+  },
+  "sales_by_location_raw": {
+    "Tier 3": 472133.0332,
+    "Tier 2": 393150.6476,
+    "Tier 1": 336397.812
+  },
+  "outlet_type_breakdown": {
+    "Grocery Store": {
+      "total_sales": "$151.94K",
+      "no_of_items": 1083,
+      "average_sales": "$140.29",
+      "avg_rating": 4,
+      "item_visibility": 113.565873177
+    },
+    "Supermarket Type1": {
+      "total_sales": "$787.55K",
+      "no_of_items": 5577,
+      "average_sales": "$141.21",
+      "avg_rating": 4,
+      "item_visibility": 338.651294052
+    },
+    "Supermarket Type2": {
+      "total_sales": "$131.48K",
+      "no_of_items": 928,
+      "average_sales": "$141.68",
+      "avg_rating": 4,
+      "item_visibility": 56.621454976
+    },
+    "Supermarket Type3": {
+      "total_sales": "$130.71K",
+      "no_of_items": 935,
+      "average_sales": "$139.80",
+      "avg_rating": 4,
+      "item_visibility": 54.804764343
+    }
+  },
+  "outlet_type_breakdown_raw": {
+    "total_sales": {
+      "Grocery Store": 151939.149,
+      "Supermarket Type1": 787549.8928,
+      "Supermarket Type2": 131477.7764,
+      "Supermarket Type3": 130714.6746
+    },
+    "average_sales": {
+      "Grocery Store": 140.29468975069253,
+      "Supermarket Type1": 141.21389506903353,
+      "Supermarket Type2": 141.67863836206897,
+      "Supermarket Type3": 139.80179101604278
+    },
+    "no_of_items": {
+      "Grocery Store": 1083,
+      "Supermarket Type1": 5577,
+      "Supermarket Type2": 928,
+      "Supermarket Type3": 935
+    },
+    "avg_rating": {
+      "Grocery Store": 3.985872576177285,
+      "Supermarket Type1": 3.9632418863188095,
+      "Supermarket Type2": 3.971228448275862,
+      "Supermarket Type3": 3.9529411764705884
+    },
+    "item_visibility": {
+      "Grocery Store": 113.565873177,
+      "Supermarket Type1": 338.651294052,
+      "Supermarket Type2": 56.621454976,
+      "Supermarket Type3": 54.804764343
+    }
+  },
+  "best_performing_outlet": {
+    "name": "Supermarket Type1",
+    "sales": "$787.55K"
+  }
+}

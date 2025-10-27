@@ -1,0 +1,72 @@
+{
+  "total_sales": 1201681.4928,
+  "average_sales": 140.99278338613163,
+  "rows": 8523,
+  "no_of_items_unique": 1559,
+  "avg_rating": 3.965857092573038,
+  "fat_content_by_sales": {
+    "Low Fat": 717390.8474,
+    "Regular": 409413.1234,
+    "LF": 43857.1082,
+    "reg": 15948.681,
+    "low fat": 15071.7328
+  },
+  "sales_by_item_type": {
+    "Fruits and Vegetables": 178124.081,
+    "Snack Foods": 175433.9224,
+    "Household": 135976.5254,
+    "Frozen Foods": 118558.8814,
+    "Dairy": 101276.4616,
+    "Canned": 90706.729,
+    "Baking Goods": 81894.7364,
+    "Health and Hygiene": 68025.8388,
+    "Meat": 59449.8638,
+    "Soft Drinks": 58514.167,
+    "Breads": 35379.1198,
+    "Hard Drinks": 29334.6806,
+    "Others": 22451.8916,
+    "Starchy Foods": 21880.0274,
+    "Breakfast": 15596.6966,
+    "Seafood": 9077.87
+  },
+  "sales_by_outlet_size": {
+    "Medium": 507895.7364,
+    "Small": 444794.1704,
+    "High": 248991.586
+  },
+  "sales_by_outlet_location": {
+    "Tier 3": 472133.0332,
+    "Tier 2": 393150.6476,
+    "Tier 1": 336397.812
+  },
+  "outlet_type_table": {
+    "Grocery Store": {
+      "total_sales": 151939.149,
+      "no_of_items": 901,
+      "average_sales": 140.29468975069253,
+      "avg_rating": 3.985872576177285,
+      "item_visibility": 0.10486230210249307
+    },
+    "Supermarket Type1": {
+      "total_sales": 787549.8928,
+      "no_of_items": 1550,
+      "average_sales": 141.21389506903353,
+      "avg_rating": 3.9632418863188095,
+      "item_visibility": 0.06072284275632061
+    },
+    "Supermarket Type2": {
+      "total_sales": 131477.7764,
+      "no_of_items": 928,
+      "average_sales": 141.67863836206897,
+      "avg_rating": 3.971228448275862,
+      "item_visibility": 0.06101449889655173
+    },
+    "Supermarket Type3": {
+      "total_sales": 130714.6746,
+      "no_of_items": 935,
+      "average_sales": 139.80179101604278,
+      "avg_rating": 3.9529411764705884,
+      "item_visibility": 0.05861472122245989
+    }
+  }
+}
