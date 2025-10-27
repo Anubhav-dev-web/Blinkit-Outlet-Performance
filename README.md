@@ -3,6 +3,8 @@
 ## Project Overview
 This repository contains data analysis tools and scripts for the Blinkit grocery sales dashboard project. It includes utilities to analyze sales data, compute key metrics, and validate dashboard calculations.
 
+![Dashboard](./image/Dashboard.png)
+
 ## Data Sources
 - `BlinkIT Grocery Data.xlsx`: Primary dataset containing grocery sales transactions
   - Features: Item details, outlet information, sales figures, ratings
